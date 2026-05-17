@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260517170609I1KR3Y</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260517170609QQ99S4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA: La literatura grecorromana</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alicia Rincón Valadez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este trabajo consiste en una situación de aprendizaje pensada para un grupo de 4º de la ESO en la asignatura optativa llamada Ampliación de Cultura Clásica. En concreto, esta situación trabaja el contenido de la literatura grecorromana, más profundamente la comedia latina.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779030352890</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp9wqljv-kto9gw8g5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqljv-kto9gw8g5</odePageId>
+      <odeBlockId>block-1779015497110-xefbsc1bb</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqljv-kto9gw8g5</odePageId>
+          <odeBlockId>block-1779015497110-xefbsc1bb</odeBlockId>
+          <odeIdeviceId>idevice-1779015497109-vvmr8slwi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><em><span style="font-size: 14pt;"><strong>La literatura en Grecia y Roma</strong></span></em></p>
+<p>Elementos:<br /></p>
+<ul>
+<li>Centro de interés o temática: los géneros literarios grecolatinos, poesía, prosa y teatro</li>
+<li>Nivel al que va dirigido: 4º de la ESO</li>
+<li>Temporalización aproximada: 10 sesiones</li>
+<li>Materia o materias implicadas: Ampliación de Cultura Clásica (optativa de 4º ESO</li>
+<li>Idioma: español/latín/griego</li>
+</ul>
+<p>Descripción general de lo que se pretende que el alumnado aprenda o trabaje: se pretende que el alumno aprenda sobre los principales escritores y obras de la literatura clásica grecolatina.<br />Justificación: imparto esta asignatura en 4º de la ESO y plantea una oportunidad real para poner en práctica la SdA porque son pocos alumnos (13 en total) y eso hace que sea abarcable la evaluación personalizada teniendo en cuenta que tengo que instruir en un correcto uso de los dispositivos electrónicos; están en la asignatura de forma voluntaria, con lo que no habrá problema de colaboración en un principio, disponemos de los ordenadores en todas las sesiones y es uno de los grupos más maduros de la ESO. Además, esta asignatura al ser optativa no tiene un currículo estricto que seguir y puedo innovar en la impartición de contenidos.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779015497109-vvmr8slwi","textInfoDurationInput":"","textInfoDurationTextInput":"La literatura en Grecia y Roma","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><em><span style=\"font-size: 14pt;\"><strong>La literatura en Grecia y Roma</strong></span></em></p>\n<p>Elementos:<br /></p>\n<ul>\n<li>Centro de interés o temática: los géneros literarios grecolatinos, poesía, prosa y teatro</li>\n<li>Nivel al que va dirigido: 4º de la ESO</li>\n<li>Temporalización aproximada: 10 sesiones</li>\n<li>Materia o materias implicadas: Ampliación de Cultura Clásica (optativa de 4º ESO</li>\n<li>Idioma: español/latín/griego</li>\n</ul>\n<p>Descripción general de lo que se pretende que el alumnado aprenda o trabaje: se pretende que el alumno aprenda sobre los principales escritores y obras de la literatura clásica grecolatina.<br />Justificación: imparto esta asignatura en 4º de la ESO y plantea una oportunidad real para poner en práctica la SdA porque son pocos alumnos (13 en total) y eso hace que sea abarcable la evaluación personalizada teniendo en cuenta que tengo que instruir en un correcto uso de los dispositivos electrónicos; están en la asignatura de forma voluntaria, con lo que no habrá problema de colaboración en un principio, disponemos de los ordenadores en todas las sesiones y es uno de los grupos más maduros de la ESO. Además, esta asignatura al ser optativa no tiene un currículo estricto que seguir y puedo innovar en la impartición de contenidos.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqljy-rp7yfo08j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqljy-rp7yfo08j</odePageId>
+      <odeBlockId>block-1779015686302-hadibz3ba</odeBlockId>
+      <blockName>Conciencia digital</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqljy-rp7yfo08j</odePageId>
+          <odeBlockId>block-1779015686302-hadibz3ba</odeBlockId>
+          <odeIdeviceId>idevice-1779015686301-otf13fitr</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779015686301-otf13fitr" title="" href="{{context_path}}/content/resources/Infografía Consejos de Marketing Moderno Azul y Blanco.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía Consejos de Marketing Moderno Azul y Blanco.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779015686301-otf13fitr","img_0":{"img":"{{context_path}}/content/resources/Infografía Consejos de Marketing Moderno Azul y Blanco.png","thumbnail":"{{context_path}}/content/resources/Infografía Consejos de Marketing Moderno Azul y Blanco.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk0-jc12u5j26</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenido</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk0-jc12u5j26</odePageId>
+      <odeBlockId>block-1779016498102-ua67fhkzt</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk0-jc12u5j26</odePageId>
+          <odeBlockId>block-1779016498102-ua67fhkzt</odeBlockId>
+          <odeIdeviceId>idevice-1779016498101-vkkqw5d69</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/arinconvaladez/literatura-grecia-y-roma-a026y8zacy6ojgex" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk0-jc12u5j26</odePageId>
+      <odeBlockId>block-1779016533846-7a8uxafix</odeBlockId>
+      <blockName>Drive</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk0-jc12u5j26</odePageId>
+          <odeBlockId>block-1779016533846-7a8uxafix</odeBlockId>
+          <odeIdeviceId>idevice-1779016533845-j38idagtt</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1nNeuWTZuOc2Y8wc4Qm-xUxU17ElBxKsoprEca137CS0/edit?usp=sharing" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk1-a5zo9y8r7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk1-a5zo9y8r7</odePageId>
+      <odeBlockId>block-1779016726430-s4xkncfke</odeBlockId>
+      <blockName>Actividades y tareas del proyecto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk1-a5zo9y8r7</odePageId>
+          <odeBlockId>block-1779016726430-s4xkncfke</odeBlockId>
+          <odeIdeviceId>idevice-1779016726429-1tbhcsymy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 600px;"><embed width="600" height="300" src="{{context_path}}/content/resources/tarea 7 b2.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="author">Alicia Rincón</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779016726429-1tbhcsymy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 600px;\"><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/tarea 7 b2.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">Alicia Rincón</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk1-4klxjcrg4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk1-4klxjcrg4</odePageId>
+      <odeBlockId>block-1779016944335-hfa00nsra</odeBlockId>
+      <blockName>Criterios de evaluación asociados a tareas</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk1-4klxjcrg4</odePageId>
+          <odeBlockId>block-1779016944335-hfa00nsra</odeBlockId>
+          <odeIdeviceId>idevice-1779016944333-7eff856nh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Tarea de 6.1. Asociamos tareas a Criterios de evaluación ALICIA RINCÓN.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779016944333-7eff856nh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Tarea de 6.1. Asociamos tareas a Criterios de evaluación ALICIA RINCÓN.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk2-1g4j92fo1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk2-1g4j92fo1</odePageId>
+      <odeBlockId>block-1778867932274-xahw5efdm</odeBlockId>
+      <blockName>CONTEXTUALIZACIÓN HISTÓRICA</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk2-1g4j92fo1</odePageId>
+          <odeBlockId>block-1778867932274-xahw5efdm</odeBlockId>
+          <odeIdeviceId>idevice-1778867932274-0x5f92g53</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Visualiza los vídeos y comenta en clase aspectos de la historia de Grecia y Roma que te hayan llamado la atención">Visualiza los vídeos y comenta en clase aspectos de la historia de Grecia y Roma que te hayan llamado la atención</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Individual">Individual</span></dt><dd>13</dd></div></dl><div class="exe-layout-2-cols exe-layout-2-50-50 exe-clear">
+<div class="exe-col exe-col-1">
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;"><iframe width="300" height="150" src="https://www.youtube.com/embed/8o-xZN9ZFXI" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">Memorias de Pez</span>. <span class="title"><em>La historia de la ANTIGUA GRECIA en 9 minutos</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+</div>
+<div class="exe-col exe-col-2">
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;"><iframe width="300" height="150" src="https://www.youtube.com/embed/N4Ljm78end4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Memorias de Pez</span>. <span class="title"><em>El IMPERIO ROMANO en 10 minutos</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>
+</div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778867932274-0x5f92g53","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Visualiza los vídeos y comenta en clase aspectos de la historia de Grecia y Roma que te hayan llamado la atención","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Visualiza los vídeos y comenta en clase aspectos de la historia de Grecia y Roma que te hayan llamado la atención\">Visualiza los vídeos y comenta en clase aspectos de la historia de Grecia y Roma que te hayan llamado la atención</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Individual\">Individual</span></dt><dd>13</dd></div></dl><div class=\"exe-layout-2-cols exe-layout-2-50-50 exe-clear\">\n<div class=\"exe-col exe-col-1\">\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/8o-xZN9ZFXI\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Memorias de Pez</span>. <span class=\"title\"><em>La historia de la ANTIGUA GRECIA en 9 minutos</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n</div>\n<div class=\"exe-col exe-col-2\">\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/N4Ljm78end4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Memorias de Pez</span>. <span class=\"title\"><em>El IMPERIO ROMANO en 10 minutos</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n</div>\n</div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk2-1g4j92fo1</odePageId>
+      <odeBlockId>block-1778869282585-pj15pw4ib</odeBlockId>
+      <blockName>CONTEXTUALIZACIÓN HISTÓRICA</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk2-1g4j92fo1</odePageId>
+          <odeBlockId>block-1778869282585-pj15pw4ib</odeBlockId>
+          <odeIdeviceId>idevice-1778869282585-xasbjc65t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Visualiza el vídeo y contesta al formulario de Google">Visualiza el vídeo y contesta al formulario de Google</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Individual">Individual</span></dt><dd>13</dd></div></dl><figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_olm598be2"><iframe width="300" height="150" src="https://www.youtube.com/embed/AIzehqK8CXI" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">Linguriosa</span>. <span class="title"><em>¿Sabes lo que es la ROMANIA? (no la Rumanía)</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span>.</figcaption>
+</figure>
+<p style="text-align: center;"><a href="https://forms.gle/NmUec4mVr3NzKwV97" target="_blank" rel="noopener" title="">FORMULARIO GOOGLE</a></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778869282585-xasbjc65t","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Visualiza el vídeo y contesta al formulario de Google","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Visualiza el vídeo y contesta al formulario de Google\">Visualiza el vídeo y contesta al formulario de Google</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Individual\">Individual</span></dt><dd>13</dd></div></dl><figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_olm598be2\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/AIzehqK8CXI\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Linguriosa</span>. <span class=\"title\"><em>¿Sabes lo que es la ROMANIA? (no la Rumanía)</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span>.</figcaption>\n</figure>\n<p style=\"text-align: center;\"><a href=\"https://forms.gle/NmUec4mVr3NzKwV97\" target=\"_blank\" rel=\"noopener\" title=\"\">FORMULARIO GOOGLE</a></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk3-vgrdks3h2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 2 y 3</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2 y 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2 y 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2 y 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk3-vgrdks3h2</odePageId>
+      <odeBlockId>block-1778869830697-moupzapbh</odeBlockId>
+      <blockName>TEORÍA DE LA LITERATURA: POESÍA ÉPICA GRIEGA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk3-vgrdks3h2</odePageId>
+          <odeBlockId>block-1778869830697-moupzapbh</odeBlockId>
+          <odeIdeviceId>idevice-1778869830696-59bvfmkoq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Breve investigación sobre la trama y personajes de la Odisea y la Ilíada">Breve investigación sobre la trama y personajes de la Odisea y la Ilíada</span></dt><dd>50:00</dd></div><div class="inline"><dt><span title="Individual">Individual</span></dt><dd>13</dd></div></dl><figure class="exe-figure exe-image license-custom float-right" style="width: 237px;">
+<div class="figcaption header"><strong>La Odisea</strong></div>
+<img src="{{context_path}}/content/resources/IA, ChatGPT, uso CC" alt="" width="237" height="158" title="La Odisea" style="border-style: ridge;" />
+<figcaption class="figcaption"><span class="author">IA, ChatGPT</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Busca información en tu libro de texto y en internet sobre la trama y los personajes principales de La Odisea y la Ilíada. Escribe el contenido en tu cuaderno y cotéjalo con el de los demás. La extensión de contenido por cada obra será de entre ocho a doce líneas.</p>
+<p> </p>
+<hr />
+<p>Como fuente de información, puedes usar las siguientes plataformas:<br /></p>
+<ul>
+<li title=""><a href="https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward" target="_blank" title="" rel="noopener">Enciclopedia de la historia del mundo</a></li>
+<li title=""><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank" rel="noopener">Wikipedia</a></li>
+</ul>
+<p>De encontrar otras, consulta anteriormente con el profesor para comprobar si son fiables.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778869830696-59bvfmkoq","textInfoDurationInput":"50:00","textInfoDurationTextInput":"Breve investigación sobre la trama y personajes de la Odisea y la Ilíada","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Breve investigación sobre la trama y personajes de la Odisea y la Ilíada\">Breve investigación sobre la trama y personajes de la Odisea y la Ilíada</span></dt><dd>50:00</dd></div><div class=\"inline\"><dt><span title=\"Individual\">Individual</span></dt><dd>13</dd></div></dl><figure class=\"exe-figure exe-image license-custom float-right\" style=\"width: 237px;\">\n<div class=\"figcaption header\"><strong>La Odisea</strong></div>\n<img src=\"{{context_path}}/content/resources/IA, ChatGPT, uso CC\" alt=\"\" width=\"237\" height=\"158\" title=\"La Odisea\" style=\"border-style: ridge;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">IA, ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Busca información en tu libro de texto y en internet sobre la trama y los personajes principales de La Odisea y la Ilíada. Escribe el contenido en tu cuaderno y cotéjalo con el de los demás. La extensión de contenido por cada obra será de entre ocho a doce líneas.</p>\n<p> </p>\n<hr />\n<p>Como fuente de información, puedes usar las siguientes plataformas:<br /></p>\n<ul>\n<li title=\"\"><a href=\"https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward\" target=\"_blank\" title=\"\" rel=\"noopener\">Enciclopedia de la historia del mundo</a></li>\n<li title=\"\"><a href=\"https://es.wikipedia.org/wiki/Wikipedia:Portada\" target=\"_blank\" rel=\"noopener\">Wikipedia</a></li>\n</ul>\n<p>De encontrar otras, consulta anteriormente con el profesor para comprobar si son fiables.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk3-vgrdks3h2</odePageId>
+      <odeBlockId>block-1778870856337-50sf1qsk2</odeBlockId>
+      <blockName>TEORÍA DE LA LITERATURA: POESÍA ÉPICA GRIEGA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk3-vgrdks3h2</odePageId>
+          <odeBlockId>block-1778870856337-50sf1qsk2</odeBlockId>
+          <odeIdeviceId>idevice-1778870856337-3zfmoi3yv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Breve investigación sobre la cuestión homérica">Breve investigación sobre la cuestión homérica</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Individual">Individual</span></dt><dd>13</dd></div></dl><p>Investiga en internet qué es "La cuestión homérica" y qué diferentes teorías hay sobre la autoría de Homero en la Ilíada y la Odisea. Escribe en tu cuaderno el contenido en una extensión mínima de seis líneas y máxima de quince. Contrasta la información con el profesor y tus compañeros.</p>
+<figure class="exe-figure position-left" style="width: 137px;">
+<div class="figcaption header"><strong>Homero y su lazarillo</strong></div>
+<img src="{{context_path}}/content/resources/Homero.png" title="Homero y su lazarillo" width="137" height="200" alt="" style="border-style: solid;" />
+<figcaption class="figcaption"><span class="author">IA, ChatGPT</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<hr />
+<p>Puedes apoyarte en las webs anteriores:</p>
+<ul>
+<li><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank" rel="noopener" title="">Wikipedia</a></li>
+<li title=""><a href="https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward" target="_blank" rel="noopener">Enciclopedia del mundo</a></li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778870856337-3zfmoi3yv","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Breve investigación sobre la cuestión homérica","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Breve investigación sobre la cuestión homérica\">Breve investigación sobre la cuestión homérica</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Individual\">Individual</span></dt><dd>13</dd></div></dl><p>Investiga en internet qué es \"La cuestión homérica\" y qué diferentes teorías hay sobre la autoría de Homero en la Ilíada y la Odisea. Escribe en tu cuaderno el contenido en una extensión mínima de seis líneas y máxima de quince. Contrasta la información con el profesor y tus compañeros.</p>\n<figure class=\"exe-figure position-left\" style=\"width: 137px;\">\n<div class=\"figcaption header\"><strong>Homero y su lazarillo</strong></div>\n<img src=\"{{context_path}}/content/resources/Homero.png\" title=\"Homero y su lazarillo\" width=\"137\" height=\"200\" alt=\"\" style=\"border-style: solid;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">IA, ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<hr />\n<p>Puedes apoyarte en las webs anteriores:</p>\n<ul>\n<li><a href=\"https://es.wikipedia.org/wiki/Wikipedia:Portada\" target=\"_blank\" rel=\"noopener\" title=\"\">Wikipedia</a></li>\n<li title=\"\"><a href=\"https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward\" target=\"_blank\" rel=\"noopener\">Enciclopedia del mundo</a></li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk3-vgrdks3h2</odePageId>
+      <odeBlockId>block-1778870882001-i1719xt5a</odeBlockId>
+      <blockName>TEORÍA DE LA LITERATURA: POESÍA ÉPICA GRIEGA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk3-vgrdks3h2</odePageId>
+          <odeBlockId>block-1778870882001-i1719xt5a</odeBlockId>
+          <odeIdeviceId>idevice-1778870882001-1zdsirrne</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Busca la biografía de Safo de Lesbos">Busca la biografía de Safo de Lesbos</span></dt><dd>40:00</dd></div><div class="inline"><dt><span title="Individual">Individual</span></dt><dd>13</dd></div></dl><p>Busca en internet y en tu libro de texto información sobre Safo de Delfos y cópialo en tu cuaderno. La extensión mínima debe ser de seis líneas y la máxima de quince. Coteja la información con tus compañeros y con el profesor.</p>
+<hr />
+<p>Puedes apoyarte en las siguientes webs, pero también utilizar otras:</p>
+<ul>
+<li title=""><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank" rel="noopener">Wikipedia</a></li>
+<li title=""><a href="https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward" target="_blank" rel="noopener">Enciclopedia del mundo</a></li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778870882001-1zdsirrne","textInfoDurationInput":"40:00","textInfoDurationTextInput":"Busca la biografía de Safo de Lesbos","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Busca la biografía de Safo de Lesbos\">Busca la biografía de Safo de Lesbos</span></dt><dd>40:00</dd></div><div class=\"inline\"><dt><span title=\"Individual\">Individual</span></dt><dd>13</dd></div></dl><p>Busca en internet y en tu libro de texto información sobre Safo de Delfos y cópialo en tu cuaderno. La extensión mínima debe ser de seis líneas y la máxima de quince. Coteja la información con tus compañeros y con el profesor.</p>\n<hr />\n<p>Puedes apoyarte en las siguientes webs, pero también utilizar otras:</p>\n<ul>\n<li title=\"\"><a href=\"https://es.wikipedia.org/wiki/Wikipedia:Portada\" target=\"_blank\" rel=\"noopener\">Wikipedia</a></li>\n<li title=\"\"><a href=\"https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward\" target=\"_blank\" rel=\"noopener\">Enciclopedia del mundo</a></li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk4-naxzp0tib</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk4-naxzp0tib</odePageId>
+      <odeBlockId>block-1778926306269-lanv9gfpv</odeBlockId>
+      <blockName>TEORÍA DE LA LITERATURA: TEATRO GRIEGO</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk4-naxzp0tib</odePageId>
+          <odeBlockId>block-1778926306269-lanv9gfpv</odeBlockId>
+          <odeIdeviceId>idevice-1778926306268-28g6760c3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Infografía sobre el teatro griego">Infografía sobre el teatro griego</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="Individual">Individual</span></dt><dd>13</dd></div></dl><figure class="exe-figure exe-image license-custom float-right" style="width: 300px;">
+<div class="figcaption header"><strong>Teatro griego</strong></div>
+<img src="{{context_path}}/content/resources/teatro.png" alt="" width="300" height="300" title="Teatro griego" style="border-style: ridge;" />
+<figcaption class="figcaption"><span class="author">IA, ChatGPT</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Realiza una infografía con los contenidos de la tragedia y comedia griega. Destaca a los autores de Esquilo, Sófocles, Eurípides y Aristófanes y pon ejemplos de sus obras más icónicas. Busca la información en tu libro de texto, pero también puedes buscar información complementaria en la web <a href="https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward" target="_blank" rel="noopener" title="">Enciclopedia del mundo</a>.</p>
+<p>La infografía tendrá que ser realizada a través de <a href="https://www.canva.com/" target="_blank" rel="noopener" title="">Canva</a>, de dos páginas máximo y deben estar representados los autores en orden cronológico y destacar cuáles son comediantes y cuáles escritores de tragedia.</p>
+<p><br style="clear: both;" /><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778926306268-28g6760c3","textInfoDurationInput":"60:00","textInfoDurationTextInput":"Infografía sobre el teatro griego","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Infografía sobre el teatro griego\">Infografía sobre el teatro griego</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"Individual\">Individual</span></dt><dd>13</dd></div></dl><figure class=\"exe-figure exe-image license-custom float-right\" style=\"width: 300px;\">\n<div class=\"figcaption header\"><strong>Teatro griego</strong></div>\n<img src=\"{{context_path}}/content/resources/teatro.png\" alt=\"\" width=\"300\" height=\"300\" title=\"Teatro griego\" style=\"border-style: ridge;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">IA, ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Realiza una infografía con los contenidos de la tragedia y comedia griega. Destaca a los autores de Esquilo, Sófocles, Eurípides y Aristófanes y pon ejemplos de sus obras más icónicas. Busca la información en tu libro de texto, pero también puedes buscar información complementaria en la web <a href=\"https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward\" target=\"_blank\" rel=\"noopener\" title=\"\">Enciclopedia del mundo</a>.</p>\n<p>La infografía tendrá que ser realizada a través de <a href=\"https://www.canva.com/\" target=\"_blank\" rel=\"noopener\" title=\"\">Canva</a>, de dos páginas máximo y deben estar representados los autores en orden cronológico y destacar cuáles son comediantes y cuáles escritores de tragedia.</p>\n<p><br style=\"clear: both;\" /><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk5-iptti6m0z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 5</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk5-iptti6m0z</odePageId>
+      <odeBlockId>block-1778927497822-01a7bfnnw</odeBlockId>
+      <blockName>TEORÍA DE LA LITERATURA: POESÍA ÉPICA ROMANA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk5-iptti6m0z</odePageId>
+          <odeBlockId>block-1778927497822-01a7bfnnw</odeBlockId>
+          <odeIdeviceId>idevice-1778927497820-8hydusn1i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Investigación breve de la Eneida">Investigación breve de la Eneida</span></dt><dd>20:00</dd></div><div class="inline"><dt><span title="Individual">Individual</span></dt><dd>13</dd></div></dl><figure class="exe-figure exe-image license-custom float-left" style="width: 300px;">
+<div class="figcaption header"><strong>Estatua de Virgilio</strong></div>
+<img src="{{context_path}}/content/resources/Estatua de mármol del poeta romano Virgilio, estilo no realista, estilizado, con toga romana, sosteniendo un pergamino o libro, busto o figura completa en mármol blanco, estilo artístico simplificado, líneas eleg.jpg" alt="" width="300" height="300" />
+<figcaption class="figcaption"><span class="author">IA, ChatGPT</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>En esta tarea debes realizar una breve investigación del poeta Virgilio y su obra de <em title="">La Eneida</em> en tu cuaderno de clase. Debes usar la información que te encontrarás en tu libro de texto, pero también puedes ampliarla a través de la <a href="https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward" target="_blank" rel="noopener">Enciclopedia del mundo</a>.</p>
+<p>Sobre Virgilio, deberás realizar una corta biografía (máximo 4 líneas) y sobre <em>La Eneida </em>deberás contar su trama principal y explicar brevemente los personajes principales.</p>
+<p><br style="clear: both;" /><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778927497820-8hydusn1i","textInfoDurationInput":"20:00","textInfoDurationTextInput":"Investigación breve de la Eneida","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Investigación breve de la Eneida\">Investigación breve de la Eneida</span></dt><dd>20:00</dd></div><div class=\"inline\"><dt><span title=\"Individual\">Individual</span></dt><dd>13</dd></div></dl><figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 300px;\">\n<div class=\"figcaption header\"><strong>Estatua de Virgilio</strong></div>\n<img src=\"{{context_path}}/content/resources/Estatua de mármol del poeta romano Virgilio, estilo no realista, estilizado, con toga romana, sosteniendo un pergamino o libro, busto o figura completa en mármol blanco, estilo artístico simplificado, líneas eleg.jpg\" alt=\"\" width=\"300\" height=\"300\" />\n<figcaption class=\"figcaption\"><span class=\"author\">IA, ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>En esta tarea debes realizar una breve investigación del poeta Virgilio y su obra de <em title=\"\">La Eneida</em> en tu cuaderno de clase. Debes usar la información que te encontrarás en tu libro de texto, pero también puedes ampliarla a través de la <a href=\"https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward\" target=\"_blank\" rel=\"noopener\">Enciclopedia del mundo</a>.</p>\n<p>Sobre Virgilio, deberás realizar una corta biografía (máximo 4 líneas) y sobre <em>La Eneida </em>deberás contar su trama principal y explicar brevemente los personajes principales.</p>\n<p><br style=\"clear: both;\" /><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk5-iptti6m0z</odePageId>
+      <odeBlockId>block-1778927516772-lq5q3s2j3</odeBlockId>
+      <blockName>TEORÍA DE LA LITERATURA: LA PROSA ÉPICA EN GRECIA Y ROMA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk5-iptti6m0z</odePageId>
+          <odeBlockId>block-1778927516772-lq5q3s2j3</odeBlockId>
+          <odeIdeviceId>idevice-1778927516773-nhxlftgeg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Esquema sobre la prosa de Grecia y Roma">Esquema sobre la prosa de Grecia y Roma</span></dt><dd>40:00</dd></div><div class="inline"><dt><span title="En parejas">En parejas</span></dt><dd>13</dd></div></dl><p>En esta tarea tenéis que realizar cada uno en su cuaderno pero apoyándose con un compañero un esquema sobre los tipos de prosa, los nombres de obras más destacadas y los autores más importantes sobre la época de la Grecia y Roma clásica. El contenido lo tenéis que sacar de vuestro libro de texto, de los apartados pertinentes. La extensión máxima son dos hojas.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778927516773-nhxlftgeg","textInfoDurationInput":"40:00","textInfoDurationTextInput":"Esquema sobre la prosa de Grecia y Roma","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"En parejas","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Esquema sobre la prosa de Grecia y Roma\">Esquema sobre la prosa de Grecia y Roma</span></dt><dd>40:00</dd></div><div class=\"inline\"><dt><span title=\"En parejas\">En parejas</span></dt><dd>13</dd></div></dl><p>En esta tarea tenéis que realizar cada uno en su cuaderno pero apoyándose con un compañero un esquema sobre los tipos de prosa, los nombres de obras más destacadas y los autores más importantes sobre la época de la Grecia y Roma clásica. El contenido lo tenéis que sacar de vuestro libro de texto, de los apartados pertinentes. La extensión máxima son dos hojas.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk6-1vcqfdcba</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 6</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk6-1vcqfdcba</odePageId>
+      <odeBlockId>block-1778929404853-000tdorvm</odeBlockId>
+      <blockName>TEORÍA DE LA LITERATURA: EL TEATRO ROMANO. PLAUTO</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk6-1vcqfdcba</odePageId>
+          <odeBlockId>block-1778929404853-000tdorvm</odeBlockId>
+          <odeIdeviceId>idevice-1778929404851-7u82s8rl4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Biografía y características del teatro romano">Biografía y características del teatro romano</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="En parejas">En parejas</span></dt><dd>13</dd></div></dl><figure class="exe-figure exe-image license-custom float-right" style="width: 300px;">
+<div class="figcaption header"><strong>Plauto</strong></div>
+<img src="{{context_path}}/content/resources/Imagen no realista de Plauto, el comediante romano clásico, en mitad de un teatro romano antiguo, estilo artístico ilustrativo.jpg" alt="" width="300" height="300" />
+<figcaption class="figcaption"><span class="author">IA, ChatGPT</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>En esta tarea debéis trabajar por parejas en un <a href="https://drive.google.com/" title="">Google Docs</a> compartido. El trabajo consistirá en dos partes: la primera será la búsqueda en internet sobre la biografía de Plauto a través de las siguientes páginas:</p>
+<ul>
+<li title=""><a href="https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward" target="_blank" rel="noopener">Enciclopedia del mundo</a></li>
+<li title=""><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank" rel="noopener">Wikipedia</a></li>
+</ul>
+<p>Si se utilizasen otras, notificar al profesor para ver la fiabilidad. La extensión de la biografía debe ser aproximadamente de seis-ocho líneas.</p>
+<p>Por otro lado, la segunda tarea consistirá en resumir y unificar las características del género teatral de la comedia romana a partir del contenido del libro de texto. Deberéis seguir usando la plataforma de Google Docs y, cuando terminéis, le pasáis el documento compartido por <a href="https://mail.google.com/" title="">correo electrónico</a> al profesor.</p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778929404851-7u82s8rl4","textInfoDurationInput":"60:00","textInfoDurationTextInput":"Biografía y características del teatro romano","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"En parejas","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Biografía y características del teatro romano\">Biografía y características del teatro romano</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"En parejas\">En parejas</span></dt><dd>13</dd></div></dl><figure class=\"exe-figure exe-image license-custom float-right\" style=\"width: 300px;\">\n<div class=\"figcaption header\"><strong>Plauto</strong></div>\n<img src=\"{{context_path}}/content/resources/Imagen no realista de Plauto, el comediante romano clásico, en mitad de un teatro romano antiguo, estilo artístico ilustrativo.jpg\" alt=\"\" width=\"300\" height=\"300\" />\n<figcaption class=\"figcaption\"><span class=\"author\">IA, ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>En esta tarea debéis trabajar por parejas en un <a href=\"https://drive.google.com/\" title=\"\">Google Docs</a> compartido. El trabajo consistirá en dos partes: la primera será la búsqueda en internet sobre la biografía de Plauto a través de las siguientes páginas:</p>\n<ul>\n<li title=\"\"><a href=\"https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward\" target=\"_blank\" rel=\"noopener\">Enciclopedia del mundo</a></li>\n<li title=\"\"><a href=\"https://es.wikipedia.org/wiki/Wikipedia:Portada\" target=\"_blank\" rel=\"noopener\">Wikipedia</a></li>\n</ul>\n<p>Si se utilizasen otras, notificar al profesor para ver la fiabilidad. La extensión de la biografía debe ser aproximadamente de seis-ocho líneas.</p>\n<p>Por otro lado, la segunda tarea consistirá en resumir y unificar las características del género teatral de la comedia romana a partir del contenido del libro de texto. Deberéis seguir usando la plataforma de Google Docs y, cuando terminéis, le pasáis el documento compartido por <a href=\"https://mail.google.com/\" title=\"\">correo electrónico</a> al profesor.</p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk6-fukkni90k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 7 y 8</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7 y 8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7 y 8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk6-fukkni90k</odePageId>
+      <odeBlockId>block-1778932198799-0j46kolet</odeBlockId>
+      <blockName>COMEDIA LATINA: ANFITRIÓN</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk6-fukkni90k</odePageId>
+          <odeBlockId>block-1778932198799-0j46kolet</odeBlockId>
+          <odeIdeviceId>idevice-1778932198796-o2ipiwh9i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Lectura dramatizada y comentario de texto">Lectura dramatizada y comentario de texto</span></dt><dd>120:00</dd></div><div class="inline"><dt><span title="En grupos">En grupos</span></dt><dd>13</dd></div></dl><p>Lorem En esta tarea tenéis que realizar una lectura dramatizada con vuestros compañeros de distintos fragmentos adaptados de la obra de <em>Anfitrión </em>Plauto. Se tendrá en cuenta a la hora de leer la modulación de la voz, los gestos, la rapidez y la dicción. Tras la lectura, tenemos que hacer un comentario de texto de cada fragmento, respondiendo a las siguientes preguntas en vuestro cuaderno:</p>
+<ul>
+<li>¿En qué parte de la obra se sitúa?</li>
+<li>¿Qué personajes son los que intervienen?</li>
+<li>¿Qué tipología de personajes son los que aparece?</li>
+<li>¿Qué referencias a la vida en la antigua Roma nos podemos encontrar?</li>
+<li>¿Quiénes son los personajes de Júpiter y Mercurio? ¿Qué representan?</li>
+</ul>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 300px;">
+<figcaption class="figcaption header"><strong>ESCENA 1</strong></figcaption>
+<embed width="300" height="150" src="{{context_path}}/content/resources/Escena 1 Anfitrión.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="author">Alicia Rincón (Adaptación)</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>
+<div class="exe-col exe-col-2">
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 300px;">
+<figcaption class="figcaption header"><strong>ESCENA 4</strong></figcaption>
+<embed width="300" height="150" src="{{context_path}}/content/resources/Escena 4 Anfitrión.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="author">Alicia Rincón (adaptación)</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>
+<div class="exe-col exe-col-3">
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 300px;">
+<figcaption class="figcaption header"><strong>ESCENA 13</strong></figcaption>
+<embed width="300" height="150" src="{{context_path}}/content/resources/Escena 13 Anfitrión.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="author">Alicia Rincón (adaptación)</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>
+</div>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778932198796-o2ipiwh9i","textInfoDurationInput":"120:00","textInfoDurationTextInput":"Lectura dramatizada y comentario de texto","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"En grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Lectura dramatizada y comentario de texto\">Lectura dramatizada y comentario de texto</span></dt><dd>120:00</dd></div><div class=\"inline\"><dt><span title=\"En grupos\">En grupos</span></dt><dd>13</dd></div></dl><p>Lorem En esta tarea tenéis que realizar una lectura dramatizada con vuestros compañeros de distintos fragmentos adaptados de la obra de <em>Anfitrión </em>Plauto. Se tendrá en cuenta a la hora de leer la modulación de la voz, los gestos, la rapidez y la dicción. Tras la lectura, tenemos que hacer un comentario de texto de cada fragmento, respondiendo a las siguientes preguntas en vuestro cuaderno:</p>\n<ul>\n<li>¿En qué parte de la obra se sitúa?</li>\n<li>¿Qué personajes son los que intervienen?</li>\n<li>¿Qué tipología de personajes son los que aparece?</li>\n<li>¿Qué referencias a la vida en la antigua Roma nos podemos encontrar?</li>\n<li>¿Quiénes son los personajes de Júpiter y Mercurio? ¿Qué representan?</li>\n</ul>\n<div class=\"exe-layout-3-cols exe-clear\">\n<div class=\"exe-col exe-col-1\">\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 300px;\">\n<figcaption class=\"figcaption header\"><strong>ESCENA 1</strong></figcaption>\n<embed width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/Escena 1 Anfitrión.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">Alicia Rincón (Adaptación)</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n</div>\n<div class=\"exe-col exe-col-2\">\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 300px;\">\n<figcaption class=\"figcaption header\"><strong>ESCENA 4</strong></figcaption>\n<embed width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/Escena 4 Anfitrión.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">Alicia Rincón (adaptación)</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n</div>\n<div class=\"exe-col exe-col-3\">\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 300px;\">\n<figcaption class=\"figcaption header\"><strong>ESCENA 13</strong></figcaption>\n<embed width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/Escena 13 Anfitrión.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">Alicia Rincón (adaptación)</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n</div>\n</div>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk7-qcbodghus</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 9</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 9</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 9</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk7-qcbodghus</odePageId>
+      <odeBlockId>block-1778959719571-qg0crq8kb</odeBlockId>
+      <blockName>CREACIÓN DE UN FRAGMENTO TEATRAL</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk7-qcbodghus</odePageId>
+          <odeBlockId>block-1778959719571-qg0crq8kb</odeBlockId>
+          <odeIdeviceId>idevice-1778959719570-dbigra9e6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Creación de un fragmento teatral original">Creación de un fragmento teatral original</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="En grupos">En grupos</span></dt><dd>13</dd></div></dl><figure class="exe-figure exe-image license-custom float-right" style="width: 400px;"><img src="{{context_path}}/content/resources/ChatGPT Image 16 may 2026, 21_31_39.png" alt="" width="400" height="267" style="border-style: solid;" />
+<figcaption class="figcaption"><span class="author">IA, ChatGPT</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>En grupos de mínimo dos personas y máximo cinco, los alumnos tienen que crear un fragmento teatral con las características de la comedia de Plauto (tipo de personajes, forma de hablar, ambientación...). Cada alumno deberá estar hablando en escena como mínimo unos cuarenta segundos y la representación no debe ser más de quince minutos en total. </p>
+<p>La representación se tiene que saber de memoria, se penaliza el no saberse el contenido. Se valorará positivamente que el alumnado venga caracterizado.</p>
+<p>El texto creado por los alumnos deberá ser escrito a través de la plataforma de <a href="https://drive.google.com/" title="">Google Docs</a> donde todos los compañeros de su grupo tendrán acceso a través de sus portátiles y, finalmente, el grupo deberá pasarle el enlace de acceso al profesor a través del <a href="https://mail.google.com/">correo </a>antes de la última clase.</p>
+<hr />
+<p>Podéis buscar inspiración con las siguientes páginas:</p>
+<ul>
+<li title=""><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank" rel="noopener">Wikipedia</a></li>
+<li title=""><a href="https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward" target="_blank" rel="noopener">Enciclopedia del mundo</a></li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778959719570-dbigra9e6","textInfoDurationInput":"60:00","textInfoDurationTextInput":"Creación de un fragmento teatral original","textInfoParticipantsInput":"13","textInfoParticipantsTextInput":"En grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Creación de un fragmento teatral original\">Creación de un fragmento teatral original</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"En grupos\">En grupos</span></dt><dd>13</dd></div></dl><figure class=\"exe-figure exe-image license-custom float-right\" style=\"width: 400px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 16 may 2026, 21_31_39.png\" alt=\"\" width=\"400\" height=\"267\" style=\"border-style: solid;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">IA, ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>En grupos de mínimo dos personas y máximo cinco, los alumnos tienen que crear un fragmento teatral con las características de la comedia de Plauto (tipo de personajes, forma de hablar, ambientación...). Cada alumno deberá estar hablando en escena como mínimo unos cuarenta segundos y la representación no debe ser más de quince minutos en total. </p>\n<p>La representación se tiene que saber de memoria, se penaliza el no saberse el contenido. Se valorará positivamente que el alumnado venga caracterizado.</p>\n<p>El texto creado por los alumnos deberá ser escrito a través de la plataforma de <a href=\"https://drive.google.com/\" title=\"\">Google Docs</a> donde todos los compañeros de su grupo tendrán acceso a través de sus portátiles y, finalmente, el grupo deberá pasarle el enlace de acceso al profesor a través del <a href=\"https://mail.google.com/\">correo </a>antes de la última clase.</p>\n<hr />\n<p>Podéis buscar inspiración con las siguientes páginas:</p>\n<ul>\n<li title=\"\"><a href=\"https://es.wikipedia.org/wiki/Wikipedia:Portada\" target=\"_blank\" rel=\"noopener\">Wikipedia</a></li>\n<li title=\"\"><a href=\"https://www.worldhistory.org/trans/es/?utm_source=whe&utm_medium=lang_popup&utm_campaign=browser_lang_forward\" target=\"_blank\" rel=\"noopener\">Enciclopedia del mundo</a></li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk8-6rf68q05m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 10</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk8-6rf68q05m</odePageId>
+      <odeBlockId>block-1778961022460-aqx9nbko6</odeBlockId>
+      <blockName>REPRESENTACIÓN TEATRAL</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk8-6rf68q05m</odePageId>
+          <odeBlockId>block-1778961022460-aqx9nbko6</odeBlockId>
+          <odeIdeviceId>idevice-1778961022459-9fb0m2qyc</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Rúbrica de evaluación de la representación teatral</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778961022459-9fb0m2qyc%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20representaci%F3n%20teatral%22%2C%22categories%22%3A%5B%22Habla%22%2C%22Vocabulario%22%2C%22Volumen%22%2C%22Comprensi%F3n%22%2C%22Postura%20del%20cuerpo%20y%20contacto%20visual%22%2C%22Contenido%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Habla%20despacio%20y%20con%20gran%20%20claridad.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20mayor%EDa%20del%20tiempo%2C%20habla%20despacio%20y%20con%20claridad.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Unas%20veces%20habla%20despacio%20y%20con%20claridad%2C%20pero%20otras%20se%20acelera%20y%20se%20le%20entiende%20mal.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Habla%20r%E1pido%20o%20se%20detiene%20demasiado%20a%20la%20hora%20de%20hablar.%20Adem%E1s%20su%20pronunciaci%F3n%20no%20es%20buena.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Usa%20vocabulario%20apropiado%20para%20la%20audiencia.%20Aumenta%20el%20vocabulario%20de%20la%20audiencia%20definiendo%20las%20palabras%20que%20podr%EDan%20ser%20nuevas%20para%20%E9sta.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Usa%20vocabulario%20apropiado%20para%20la%20audiencia.%20Incluye%201-2%20palabras%20que%20podr%EDan%20ser%20nuevas%20para%20la%20mayor%20parte%20de%20la%20audiencia%2C%20pero%20no%20las%20define.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Usa%20vocabulario%20apropiado%20para%20la%20audiencia.%20No%20incluye%20vocabulario%20que%20podr%EDa%20ser%20nuevo%20para%20la%20audiencia.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Usa%20varias%20%285%20o%20m%E1s%29%20palabras%20o%20frases%20que%20no%20son%20entendidas%20por%20la%20audiencia.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20volumen%20es%20lo%20suficientemente%20alto%20para%20ser%20escuchado%20por%20todos%20los%20miembros%20de%20la%20audiencia%20a%20trav%E9s%20de%20toda%20la%20presentaci%F3n.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20volumen%20es%20lo%20suficientemente%20alto%20para%20ser%20escuchado%20por%20todos%20los%20miembros%20de%20la%20audiencia%20al%20menos%2090%25%20del%20tiempo.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20volumen%20es%20lo%20suficientemente%20alto%20para%20ser%20escuchado%20por%20todos%20los%20miembros%20de%20la%20audiencia%20al%20menos%20el%2080%25%20del%20tiempo.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20volumen%20con%20frecuencia%20es%20muy%20d%E9bil%20para%20ser%20escuchado%20por%20todos%20los%20miembros%20de%20la%20audiencia.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20estudiante%20puede%20con%20precisi%F3n%20contestar%20casi%20todas%20las%20preguntas%20planteadas%20sobre%20el%20tema%20por%20sus%20compa%F1eros%20de%20clase.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20estudiante%20puede%20con%20precisi%F3n%20contestar%20la%20mayor%EDa%20de%20las%20preguntas%20planteadas%20sobre%20el%20tema%20por%20sus%20compa%F1eros%20de%20clase.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20estudiante%20puede%20con%20precisi%F3n%20contestar%20unas%20pocas%20preguntas%20planteadas%20sobre%20el%20tema%20por%20sus%20compa%F1eros%20de%20clase.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20estudiante%20no%20puede%20contestar%20las%20preguntas%20planteadas%20sobre%20el%20tema%20por%20sus%20compa%F1eros%20de%20clase.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22A%20la%20hora%20de%20hablar%20la%20postura%20y%20el%20gesto%20son%20muy%20adecuados.%20Mira%20a%20todos%20los%20compa%F1eros%20con%20total%20naturalidad.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20mayor%EDa%20del%20tiempo%20la%20postura%20y%20el%20gesto%20son%20adecuados%20y%20casi%20siempre%20mira%20a%20%20%20los%20compa%F1eros%20mientras%20habla.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Algunas%20veces%2C%20mantiene%20la%20postura%20y%20%20el%20gesto%20adecuados%2C%20y%20otras%20no.%20En%20ocasiones%20mira%20a%20sus%20compa%F1eros.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20mantiene%20la%20postura%20y%20gesto%20propios%20de%20una%20exposici%F3n%20oral%20y%2C%20la%20mayor%EDa%20de%20las%20veces%2C%20no%20mira%20a%20sus%20compa%F1eros.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Demuestra%20un%20completo%20entendimiento%20del%20tema%20que%20expone.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Demuestra%20un%20buen%20entendimiento%20del%20tema%20que%20expone.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Demuestra%20un%20buen%20entendimiento%20de%20partes%20del%20tema%20que%20expone.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20parece%20entender%20muy%20bien%20el%20tema%20que%20expone.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20representaci%F3n%20teatral%22%2C%22categories%22%3A%5B%22Habla%22%2C%22Vocabulario%22%2C%22Volumen%22%2C%22Comprensi%F3n%22%2C%22Postura%20del%20cuerpo%20y%20contacto%20visual%22%2C%22Contenido%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Habla%20despacio%20y%20con%20gran%20%20claridad.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20mayor%EDa%20del%20tiempo%2C%20habla%20despacio%20y%20con%20claridad.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Unas%20veces%20habla%20despacio%20y%20con%20claridad%2C%20pero%20otras%20se%20acelera%20y%20se%20le%20entiende%20mal.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Habla%20r%E1pido%20o%20se%20detiene%20demasiado%20a%20la%20hora%20de%20hablar.%20Adem%E1s%20su%20pronunciaci%F3n%20no%20es%20buena.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Usa%20vocabulario%20apropiado%20para%20la%20audiencia.%20Aumenta%20el%20vocabulario%20de%20la%20audiencia%20definiendo%20las%20palabras%20que%20podr%EDan%20ser%20nuevas%20para%20%E9sta.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Usa%20vocabulario%20apropiado%20para%20la%20audiencia.%20Incluye%201-2%20palabras%20que%20podr%EDan%20ser%20nuevas%20para%20la%20mayor%20parte%20de%20la%20audiencia%2C%20pero%20no%20las%20define.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Usa%20vocabulario%20apropiado%20para%20la%20audiencia.%20No%20incluye%20vocabulario%20que%20podr%EDa%20ser%20nuevo%20para%20la%20audiencia.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Usa%20varias%20%285%20o%20m%E1s%29%20palabras%20o%20frases%20que%20no%20son%20entendidas%20por%20la%20audiencia.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20volumen%20es%20lo%20suficientemente%20alto%20para%20ser%20escuchado%20por%20todos%20los%20miembros%20de%20la%20audiencia%20a%20trav%E9s%20de%20toda%20la%20presentaci%F3n.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20volumen%20es%20lo%20suficientemente%20alto%20para%20ser%20escuchado%20por%20todos%20los%20miembros%20de%20la%20audiencia%20al%20menos%2090%25%20del%20tiempo.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20volumen%20es%20lo%20suficientemente%20alto%20para%20ser%20escuchado%20por%20todos%20los%20miembros%20de%20la%20audiencia%20al%20menos%20el%2080%25%20del%20tiempo.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20volumen%20con%20frecuencia%20es%20muy%20d%E9bil%20para%20ser%20escuchado%20por%20todos%20los%20miembros%20de%20la%20audiencia.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20estudiante%20puede%20con%20precisi%F3n%20contestar%20casi%20todas%20las%20preguntas%20planteadas%20sobre%20el%20tema%20por%20sus%20compa%F1eros%20de%20clase.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20estudiante%20puede%20con%20precisi%F3n%20contestar%20la%20mayor%EDa%20de%20las%20preguntas%20planteadas%20sobre%20el%20tema%20por%20sus%20compa%F1eros%20de%20clase.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20estudiante%20puede%20con%20precisi%F3n%20contestar%20unas%20pocas%20preguntas%20planteadas%20sobre%20el%20tema%20por%20sus%20compa%F1eros%20de%20clase.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20estudiante%20no%20puede%20contestar%20las%20preguntas%20planteadas%20sobre%20el%20tema%20por%20sus%20compa%F1eros%20de%20clase.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22A%20la%20hora%20de%20hablar%20la%20postura%20y%20el%20gesto%20son%20muy%20adecuados.%20Mira%20a%20todos%20los%20compa%F1eros%20con%20total%20naturalidad.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20mayor%EDa%20del%20tiempo%20la%20postura%20y%20el%20gesto%20son%20adecuados%20y%20casi%20siempre%20mira%20a%20%20%20los%20compa%F1eros%20mientras%20habla.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Algunas%20veces%2C%20mantiene%20la%20postura%20y%20%20el%20gesto%20adecuados%2C%20y%20otras%20no.%20En%20ocasiones%20mira%20a%20sus%20compa%F1eros.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20mantiene%20la%20postura%20y%20gesto%20propios%20de%20una%20exposici%F3n%20oral%20y%2C%20la%20mayor%EDa%20de%20las%20veces%2C%20no%20mira%20a%20sus%20compa%F1eros.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Demuestra%20un%20completo%20entendimiento%20del%20tema%20que%20expone.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Demuestra%20un%20buen%20entendimiento%20del%20tema%20que%20expone.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Demuestra%20un%20buen%20entendimiento%20de%20partes%20del%20tema%20que%20expone.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20parece%20entender%20muy%20bien%20el%20tema%20que%20expone.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ER%FAbrica%20de%20evaluaci%F3n%20de%20la%20representaci%F3n%20teatral%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship sr-av"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar la representación teatral</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ER%FAbrica%20de%20evaluaci%F3n%20de%20la%20representaci%F3n%20teatral%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9wqlk8-hvr3t0z83</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp9wqlk8-hvr3t0z83</odePageId>
+      <odeBlockId>block-1779017552574-a1unkmngk</odeBlockId>
+      <blockName>Información del trabajo</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9wqlk8-hvr3t0z83</odePageId>
+          <odeBlockId>block-1779017552574-a1unkmngk</odeBlockId>
+          <odeIdeviceId>idevice-1779017552573-yz984r6d8</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="267" style="width: 44.4149%; height: 266.2px;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr style="height: 66.55px;">
+<th style="width: 24.8435%; height: 66.55px;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA: La literatura grecorromana</span></td>
+</tr>
+<tr style="height: 66.55px;">
+<th style="width: 24.8435%; height: 66.55px;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr style="height: 66.55px;">
+<th style="width: 24.8435%; height: 66.55px;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr style="height: 66.55px;">
+<th style="width: 24.8435%; height: 66.55px;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
